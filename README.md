@@ -2,7 +2,7 @@
 
 **Authors**: Hrayr Muradyan, Sepehr Heydarian, Javier Martinez
 
-### Probelem Statement
+### Problem Statement
 Foreign Object Debris (FOD) on airport runways poses a significant risk to aircraft safety leading to tragic accidents, aircraft crashes and financial losses due to costly damage to aircraft.
 
 The FOD-A dataset contains images of common FOD with runway and taxiway backgrounds, provides an opportunity to develop an automated computer vision-based FOD detection system. By using this dataset, our goal is to train and evaluate machine learning models that can accurately detect and classify obstacles on airport airlanes, enabling timely intervention and enhancing aviation safety.
