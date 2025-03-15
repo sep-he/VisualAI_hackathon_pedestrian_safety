@@ -7,14 +7,9 @@ dependencies:
   - fiftyone
   - pandas
   - jupyterlab
-<<<<<<< HEAD
   - numpy
-  - jupyter
-=======
   - seaborn
   - pip
-  - pip:
-      - torch
-      - torchvision
-      - torchaudio
->>>>>>> ea721c1 (baseline model)
+  - pytorch
+  - torchvision
+  - torchaudio
